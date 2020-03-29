@@ -26,7 +26,7 @@ Before a grain client can be used for making calls to grains hosted in an Orlean
 
 Configuration is provided via  `ClientBuilder` and a number of supplemental option classes that contain a hierarchy of configuration properties for programmatically configuring a client.
 
-More information can be in the [Client Configuration guide](configuration_guide/client_configuration.md).
+More information can be found in the [Client Configuration guide](configuration_guide/client_configuration.md).
 
 Example of a client configuration:
 
